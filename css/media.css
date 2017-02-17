@@ -1,0 +1,12 @@
+@media only screen and (max-width: 490px) {
+    .content-header-footer {
+        width: 100%;
+    }
+    h1 {
+        font-size: 45px;
+    }
+    img {
+        width: 346px;
+        height: 430px;
+    }
+}

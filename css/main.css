@@ -1,0 +1,219 @@
+    body {
+        font-family: 'Roboto Condensed', Arial, sans-serif;
+    }
+    
+    h1 {
+        font-size: 55px;
+        color: #ff2d2d;
+        font-weight: 700;
+        padding-top: 20px;
+    }
+    
+    h1,
+    h2 {
+        text-shadow: 2px 2px 2px #aaa;
+    }
+    
+    ul li {
+        padding-bottom: 15px;
+    }
+    
+    .header {
+        background: url("../img/1-97.jpg") center top no-repeat;
+        background-color: rgba(0, 0, 0, 0.6);
+        background-blend-mode: darken;
+        background-size: 100%;
+        color: #fff;
+    }
+    
+    ul,
+    ol {
+        font-size: 20px;
+    }
+    
+    .content {
+        padding-bottom: 8%;
+    }
+    
+    .lesson {
+        font-size: 30px;
+    }
+    
+    .downloadbook {
+        font-size: 22px;
+        margin-top: 10%;
+    }
+    
+    .content-header-footer {
+        margin-top: 20%;
+        width: 60%;
+        padding-bottom: 14%;
+    }
+    
+    .form-castom {
+        margin-top: 5%;
+    }
+    
+    .form-control {
+        padding: 20px 30px;
+        text-transform: uppercase;
+        background-color: rgba;
+        line-height: 75px;
+        color: #ffffff;
+    }
+    
+    input[type="email"]::-webkit-input-placeholder {
+        color: #000;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    
+    .form-btn {
+        padding: 9px 30px;
+        text-transform: uppercase;
+        background-color: rgba(240, 48, 48, 0.7);
+        font-size: 16px;
+        color: #ffffff;
+    }
+    
+    .btn-success {
+        border-color: rgba(240, 48, 48, 0.7);
+        ;
+    }
+    
+    .form-btn:hover {
+        background-color: #252830;
+    }
+    
+    .img-header {
+        width: 446px;
+        margin-top: 10%;
+    }
+    
+    .aboutwhat {
+        background: #252830 url("../img/job3.jpg") no-repeat;
+        background-size: 100%;
+        background-color: rgba(0, 0, 0, 0.6);
+        background-blend-mode: darken;
+        color: #fff;
+    }
+    
+    .aboutwhat h2 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+    
+    .aboutwhat ol {
+        border-top: 3px solid #bc3c3c;
+        margin: 4% 0;
+        padding-top: 20px;
+    }
+    
+    .benefit-title {
+        padding: 1% 0;
+        background-color: #252830;
+    }
+    
+    .benefit-title h2 {
+        font-size: 45px;
+        font-weight: 700;
+        color: #00c0ff;
+    }
+    
+    .benefit {
+        background: url("../img/image006.jpg") no-repeat;
+        background-size: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+        background-blend-mode: darken;
+        color: #fff;
+    }
+    
+    .benefit-list {
+        padding: 2% 0;
+    }
+    
+    .benefit-list-right ul {
+        list-style: none;
+        padding-left: 10px;
+    }
+    
+    .benefit-list-right li {
+        position: ;
+    }
+    
+    .benefit-list-right li::before {
+        content: "\2605";
+        color: #00c0ff;
+        position: relative;
+        top: 0px;
+        right: 20px;
+    }
+    
+    .aboutme-img {
+        margin-top: 15%;
+    }
+    
+    .aboutme-content {
+        margin-top: 6%;
+    }
+    
+    .aboutme-content h3 {
+        font-size: 40px;
+        font-weight: 600;
+        color: #ff2d2d;
+        padding: 20px 0;
+    }
+    
+    .aboutme .name {
+        font-size: 30px;
+        font-weight: 600;
+        color: #ff2d2d;
+        width: 75%;
+        padding: 20px 0;
+    }
+    
+    .name {
+        font-size: 20px;
+        font-weight: 600;
+        color: #ff2d2d;
+    }
+    
+    .footer {
+        background: url("../img/1-97.jpg") no-repeat;
+        background-size: 100%;
+        background-color: rgba(0, 0, 0, 0.6);
+        background-blend-mode: darken;
+        color: #fff;
+    }
+    
+    .footer-bottom {
+        background: #252830;
+        padding: 2em 0;
+    }
+    
+    .footer-bottom .copy {
+        margin-top: 14px;
+        font-size: 19px;
+    }
+    
+    .text-left a {
+        font-size: 16px;
+    }
+    
+    .footer-bottom .soc-list {
+        color: #aaa;
+        font-size: 24px;
+        list-style: none;
+    }
+    
+    .footer .soc-list li {
+        display: inline-block;
+        margin: 8px;
+    }
+    
+    .footer .soc-list {
+        list-style: none;
+        padding: 0;
+        margin-left: 0px !important;
+        margin-top: 16px;
+    }
