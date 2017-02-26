@@ -18,7 +18,7 @@
         padding-bottom: 15px;
     }
     
-    .header {
+    header {
         background: url("../img/1-97.jpg") center top no-repeat;
         background-color: rgba(0, 0, 0, 0.6);
         background-blend-mode: darken;
@@ -189,6 +189,7 @@
     .footer-bottom {
         background: #252830;
         padding: 2em 0;
+        border-top: 2px solid #428bca;
     }
     
     .footer-bottom .copy {
@@ -204,16 +205,12 @@
         color: #aaa;
         font-size: 24px;
         list-style: none;
+        padding: 0;
+        margin-left: 0px;
+        margin-top: 16px;
     }
     
     .footer .soc-list li {
         display: inline-block;
         margin: 8px;
-    }
-    
-    .footer .soc-list {
-        list-style: none;
-        padding: 0;
-        margin-left: 0px !important;
-        margin-top: 16px;
     }
